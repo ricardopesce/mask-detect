@@ -27,8 +27,13 @@ share/python-wheels/
 *.egg
 MANIFEST
 git.ipynb
+mask-detect-main/
 pre-processamento.ipynb 
 treinando-modelo.ipynb
+imagens/
+*.rar
+*.zip
+.git 
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
